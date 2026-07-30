@@ -4,3 +4,4 @@ enfolded.bat
 /src/models/__pycache__/
 /src/templates/__pycache__/
 /src/views/__pycache__/
+/src/tests/__pycache__/
